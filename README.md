@@ -2,3 +2,5 @@
 
 ## Currently supports:
 - LineageOS 18.1
+
+(also hosts the download links for the zip file)
